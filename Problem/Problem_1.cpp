@@ -10,5 +10,6 @@ void Problem_1::Execute()
             sum += i;
         i++;
     }
-    std::cout<< sum<<std::endl;
+    std::cout << sum << std::endl;
+    std::cout << "Githhub Test" << std::endl;
 }
